@@ -1,2 +1,2 @@
 # Sistema-Mercadinho
-Sistema mercadinho feito com PHP
+Sistema mercadinho feito com NODE JS
